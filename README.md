@@ -1,4 +1,4 @@
-# hiearchy-eac
+# hierarchy-eac
 Bypassing EasyAntiCheat.sys self-integrity by abusing call hierarchy
 
 # Writeup
